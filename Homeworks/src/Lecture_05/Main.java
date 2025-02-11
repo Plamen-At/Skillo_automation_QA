@@ -1,4 +1,4 @@
-package Lecture_5;
+package Lecture_05;
 
 public class Main {
 
@@ -8,6 +8,9 @@ public class Main {
 
     }
 
+    private static void exercise1() {
+
+    }
 
 
 }

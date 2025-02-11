@@ -1,6 +1,8 @@
-package Lecture_5;
+package Lecture_05;
 
-public class Exercise_1 {
+//Find the largest number from a given array and print it in a console
+
+public class Exercise_01 {
 
     public static void main(String[] args) {
 
