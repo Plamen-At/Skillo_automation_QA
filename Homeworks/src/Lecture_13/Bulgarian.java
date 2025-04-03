@@ -30,5 +30,6 @@ public class Bulgarian extends Person {
 //        Bulgarian.celebrateEaster();
 //        Bulgarian.isAdult();
 //        System.out.println("Can " + Bulgarian.getName() + " take a loan: " + Bulgarian.canTakeLoan());
+//        Bulgarian.favouriteMeal();
 //    }
 
