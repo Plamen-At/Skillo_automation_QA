@@ -9,7 +9,7 @@ public class Main {
 //        int angle2 = scanner.nextInt();
 //        int angle3 = scanner.nextInt();
 //
-//        // Check if triangle can be buld
+//        // Check if triangle can be build
 //        if ((angle1+angle2+angle3)==180){
 //            System.out.println("Triangle can be build");
 //
@@ -49,7 +49,7 @@ public class Main {
 //
 //        String dayOfWeek = "";
 //        String suffix = "";
-//
+//                     
 //        // Determine the suffix (st/nd/rd/th)
 //        if (day == 1) {
 //            suffix = "-st";

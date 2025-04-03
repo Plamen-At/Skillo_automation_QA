@@ -10,5 +10,5 @@ package Lecture_12;
 //toString–should print all the information about the employee
 //Hint: Use access modifiers, getters and setters
 
-public class Exercise_02 {
+public class    Exercise_02 {
 }
